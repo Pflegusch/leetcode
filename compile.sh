@@ -1,0 +1,1 @@
+clang++ -O2 -fsanitize=address solution.cc && ./a.out
